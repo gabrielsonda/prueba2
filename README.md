@@ -7,6 +7,6 @@ Instrucciones:
 3. Actualizar documentación
 4. Pull request
 
-Actividad: ()
+Actividad: (pensamiento matemático docentes)
 
 Entrega: 27/septiembre/2022
