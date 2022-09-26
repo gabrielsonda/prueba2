@@ -1,4 +1,4 @@
-# Actividad prubea | REPOSITORIO
+# Actividad prueba | REPOSITORIO
 
 Instrucciones:
 
