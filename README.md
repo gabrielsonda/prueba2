@@ -7,6 +7,6 @@ Instrucciones:
 3. Actualizar documentación
 4. Pull request
 
-Continúa con la [actividad 2](pensamiento matematico alumnos.md)
+Continúa con la [actividad 2](pensamiento matemático docentes.pdf)
 
 Entrega: 27/septiembre/2022
