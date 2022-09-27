@@ -1,6 +1,6 @@
 ## Actividad prueba | REPOSITORIO
 
-#Instrucciones:
+## Instrucciones:
 
 1. Solicitar cambios [google](https://www.google.com.mx/?hl=es-419)
 2. Creación del módulo de ventas
