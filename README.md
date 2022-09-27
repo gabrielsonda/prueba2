@@ -9,7 +9,7 @@
 1. Solicitar cambios [google](https://www.google.com.mx/?hl=es-419)
 2. Creación del módulo de ventas
 3. Actualizar documentación
-4. *Pull request*
+4. **Pull request**
 
 Continúa con la [Pila de producto](Backlog.xlsx)
 
