@@ -11,6 +11,6 @@
 3. Actualizar documentación
 4. Pull request
 
-Continúa con la [actividad 2](pensamiento matemático docentes.pdf)
+Continúa con la [Pila de producto](backlog.xls)
 
 Entrega: 27/septiembre/2022
