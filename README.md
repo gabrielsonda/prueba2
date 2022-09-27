@@ -11,6 +11,6 @@
 3. Actualizar documentación
 4. Pull request
 
-Continúa con la [Pila de producto](backlog.xlsx)
+Continúa con la [Pila de producto](Backlog.xlsx)
 
 Entrega: 27/septiembre/2022
